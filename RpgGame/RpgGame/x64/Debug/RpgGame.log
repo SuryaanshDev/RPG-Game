@@ -1,0 +1,36 @@
+﻿  MapLoader.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\MapLoader.cpp(34,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bullet.cpp
+  Enemy.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305:         with
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305:         [
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305:             T=float
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305:         ]
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305:         with
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305:         [
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305:             T=float
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305:         ]
+  FrameRate.cpp
+  main.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\main.cpp(71,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Map.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Map.cpp(56,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Math.cpp
+  Player.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305:         with
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305:         [
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305:             T=float
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305:         ]
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305:         with
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305:         [
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305:             T=float
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305:         ]
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(80,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.cpp(85,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Bullet.h(24,1): warning C4172: returning address of local variable or temporary 
+  RpgGame.vcxproj -> C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\x64\Debug\RpgGame.exe

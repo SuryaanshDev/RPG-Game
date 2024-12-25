@@ -1,0 +1,27 @@
+﻿  MapLoader.cpp
+  Bullet.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Bullet.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Src/Bullet.cpp')
+  
+  Enemy.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Enemy.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Src/Enemy.cpp')
+  
+  FrameRate.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\FrameRate.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Src/FrameRate.cpp')
+  
+  main.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\main.cpp(1,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Map.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Map.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Src/Map.cpp')
+  
+  Math.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Math.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Src/Math.cpp')
+  
+  Player.cpp
+C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\Player.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Src/Player.cpp')
+  
