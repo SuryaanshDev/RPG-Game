@@ -7,8 +7,11 @@ private:
 
 	sf::Texture tileSheet;
 	sf::Sprite tile;
+	sf::Vector2i m_tileSize;
+	sf::Vector2f m_scale;
+
 public:
-	MouseTile();
+	MouseTile(const sf::Vector2i& tileSize, const sf::Vector2f& tileScale);
 	~MouseTile();
 
 	void Initialize();

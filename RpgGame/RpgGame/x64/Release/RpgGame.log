@@ -1,8 +1,39 @@
-﻿  main.cpp
-C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\RpgGame\Src\main.cpp(71,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+﻿  MapLoader.cpp
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\MapLoader.cpp(34,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bullet.cpp
+  Enemy.cpp
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305:         with
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305:         [
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305:             T=float
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,36): warning C4305:         ]
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305:         with
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305:         [
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305:             T=float
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Enemy.cpp(69,31): warning C4305:         ]
+  FrameRate.cpp
+  main.cpp
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\main.cpp(71,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Map.cpp
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Map.cpp(56,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Math.cpp
+  Player.cpp
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305:         with
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305:         [
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305:             T=float
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,39): warning C4305:         ]
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305:         with
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305:         [
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305:             T=float
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(41,34): warning C4305:         ]
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(80,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Player.cpp(85,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Generating code
-  1 of 409 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\RpgGame\Src\Bullet.h(24): warning C4172: returning address of local variable or temporary
+  All 409 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  RpgGame.vcxproj -> C:\Users\Suryaansh Dev\Desktop\Code_Db\GameDev\New folder\RpgGame\x64\Release\RpgGame.exe
+  RpgGame.vcxproj -> C:\Users\surya\OneDrive\Desktop\RPG-Game-main\RpgGame\x64\Release\RpgGame.exe
